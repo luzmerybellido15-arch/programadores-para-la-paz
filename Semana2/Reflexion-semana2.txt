@@ -1,0 +1,9 @@
+Respuesta: Para un desarrollador es importante saber usar la terminal,
+por que es una herramienta en la cual a traves de diferentes comandos se pueden realizar funciones como: 
+ver archivos, crear carpetas, mover o eliminar elementos, de una manera mas rapida, y precisa. 
+Esto ayuda a tener un mejor control en los proyectos y en los repositorios. 
+Ademas, permite escribir instrucciones exactas para poder ejecutar programas 
+y configurar el equipo de forma eficiente, todo esto con el fin de tener una mejor navegacion 
+y unos proyectos mas organizados.  
+Es una herramienta que permite ahorrar mucho tiempo y ayuda al orden de los proyectos con las 
+diferentes acciones que alli se pueden realizar.

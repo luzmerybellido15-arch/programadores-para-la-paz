@@ -1,0 +1,6 @@
+Pregunta 7:
+Respuesta:
+1. ls
+2. git add . 
+3. git commit -m "Actividad semana 2" 
+4. git push 

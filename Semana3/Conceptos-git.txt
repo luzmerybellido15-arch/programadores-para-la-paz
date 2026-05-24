@@ -1,0 +1,9 @@
+Repositorio: Un repositorio es como una carpeta única donde se guarda todo el proyecto: el código, los archivos y los recursos que se usan.
+Es el lugar donde Git lleva el control de todas las versiones del software.
+
+Commit: Un commit sirve para guardar los códigos en un momento específico del desarrollo.
+Registra qué cambios se hicieron, quién lo hizo y en qué fecha, con un mensaje explicando el cambio.
+Sirve para poder volver a ese estado si algo se rompe o se necesita revisar cómo estaba antes.
+
+Push: El push es el comando que manda los commits que se hicieron en el equipo al repositorio que está en la nube.
+Así los demás compañeros del proyecto pueden ver y usar los cambios.
